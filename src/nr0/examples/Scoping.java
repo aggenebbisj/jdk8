@@ -13,7 +13,6 @@ public class Scoping {
             out.println(this);
         }
     };
-
     Runnable r4 = new Runnable() {
         @Override
         public void run() {
